@@ -69,10 +69,13 @@ Pkg.add("Omega")
 
 When reviewing this project please run the notebooks in the following order to get a full understanding of both our research process and how the implementation works. We attempted to make the code run as fast as possible, however there are a few sections that still take a little while to run. These slow parts are noted in the comments and can be sped up by reducing the number of samples that are drawn.
 
-WE SHOULD ADD NAMES OF NOTEBOOKS HERE IN THESE STEPS
-1. First implementation of Lotka Volterra using random variables for each step
-2. Optimized implementation using one random variable for all steps
-3. Abduction-action-prediction Algorithm
+1. First_Implementation_Walkthrough - First implementation of Lotka Volterra using random variables for each step
+2. Optimized_Implementation_Walkthrough - Optimized implementation using one random variable for all steps
+3. Abduction_action_prediction - Our implementation of the Abduction-action-prediction Algorithm
+
+#### PDF Notebooks
+
+To make it easier to view our plots and results, we knitted our notebooks to pdf versions. These can be viewed to see our final results without having to run any code. Please view in the same order as above.
 
 ## Authors
 
